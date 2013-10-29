@@ -1,1 +1,1 @@
-window.location.href='http://http://www.tiffanyandcozone.com/';
+window.location.href="http://http://www.tiffanyandcozone.com/";
